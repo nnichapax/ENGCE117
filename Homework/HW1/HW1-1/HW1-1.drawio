@@ -65,6 +65,12 @@
             <mxPoint x="430" y="930" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="iW2iSG7uEyaPBxTALp5W-18" value="เท็จ" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="480" y="508" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="iW2iSG7uEyaPBxTALp5W-19" value="จริง" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="405" y="600" width="40" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
