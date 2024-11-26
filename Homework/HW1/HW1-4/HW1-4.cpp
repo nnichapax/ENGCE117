@@ -1,8 +1,9 @@
 #include <stdio.h>
-int *GetSet( int * ) ;
+
+int GetSet( int [] ) ;
 
 int main() {
     int *data, num ;
-    data = GetSet( &num ) ;
+    num = GetSet( data ) ;
     return 0 ;
 }//end function
