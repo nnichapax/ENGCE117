@@ -5,10 +5,7 @@ void GetSet( int data[], int *num ) ;
 
 int main() {
     int *data, num ;
-
-    int *t ;
-    t = new int [ num * *data ] ;
-    
+    data = new int[ 888 ] ;//for สร้างช่องArray
     GetSet( data, &num ) ;//for call function
     return 0 ;
 }//end function
